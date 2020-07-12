@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Sit_template_project.aux
+The style file: sit.bst
+A level-1 auxiliary file: EXTRA_PAGES/chap_title.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_declaration.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_certificate.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_ack.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_abstract.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_abbr.aux
+A level-1 auxiliary file: EXTRA_PAGES/chap_notation.aux
+A level-1 auxiliary file: CHAPTERS/chap_intro.aux
+Illegal, another \bibstyle command---line 31 of file Sit_template_project.aux
+ : \bibstyle
+ :          {sit}
+I'm skipping whatever remains of this command
+Database file #1: sitbibtex.bib
+(There was 1 error message)
